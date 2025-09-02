@@ -1,0 +1,5 @@
+{
+  "name": "Global Time Hub",
+  "description": "A sleek, professional web application to view the real-time clocks of major cities around the world, complete with beautiful photography for each location.",
+  "requestFramePermissions": []
+}
